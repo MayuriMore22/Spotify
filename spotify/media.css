@@ -1,0 +1,67 @@
+
+@media(max-width:412px){
+
+
+    nav ul{
+        height: 30px;
+    }
+    
+    nav ul li{
+        padding: 0 12px;
+    }
+    
+    .brand img{
+     width: 24px;
+    }
+    
+    .brand{
+        font-size: 1rem;
+    }
+    
+    .container{
+       margin: 8px auto;
+       width: 77%;
+       background-color:lawngreen;
+    }
+    
+
+    .songList h1{
+        font-size: 1rem;
+    }
+
+    .songItemContainer{
+        margin-top: 20px;
+    }
+
+
+    
+ .songItem{
+    height: 40px;
+    margin: 12px 0;
+ }
+
+
+ .songItem img{
+   margin: 0 12px;
+}
+
+
+.timestamp{
+    color:forestgreen;
+  margin: 0 10px; 
+  font-family: 'Varela Round', sans-serif;   
+}
+
+.songName{
+    font-size: 7px;
+}
+
+
+.icons{
+    margin-top: 50px;
+}
+
+
+
+
+}
